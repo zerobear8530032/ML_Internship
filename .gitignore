@@ -1,3 +1,6 @@
+# data setfiles :
+DATASET/TEST/
+DATASET/TRAIN/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
